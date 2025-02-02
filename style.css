@@ -6,3 +6,7 @@
 .vfrc-avatar {
   opacity: 0;
 }
+
+.vfrc-widget {
+  max-height: 500px;
+}
