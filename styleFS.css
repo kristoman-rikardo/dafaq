@@ -1,1 +1,19 @@
+.vfrc-header {
+  background-color: transparent;
+  color: transparent;
+}
 
+.vfrc-avatar {
+  opacity: 0;
+}
+
+.vfrc-chat {
+  min-height: 50px;
+  max-height: 300px;
+}
+
+.vfrc-header {
+  max-height: 1px;
+  padding-top: none;
+  padding-bottom: none;
+}
