@@ -8,12 +8,12 @@
 }
 
 .vfrc-chat {
-  min-height: 350px;
-  max-height: 500px;
+  min-height: 250px;
+  max-height: 400px;
 }
 
 .vfrc-header {
   max-height: 1px;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  padding-top: none;
+  padding-bottom: none;
 }
